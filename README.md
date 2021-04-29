@@ -33,6 +33,11 @@
 
 [![Spongebab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)](https://github.com/spongebab)
 
+<details>
+  <summary>Weekly Coding Status</summary>
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)"></p>
+</details>
 
-[My blog address](https://blog.csdn.net/weixin_40557160/rss/list)
+<h1 align="center">[My blog address](https://blog.csdn.net/weixin_40557160)</h1>
+
 
