@@ -31,3 +31,4 @@
 
 <p align="left"> <a href="https://github.com/spongebab"><img src="https://github-profile-trophy.vercel.app/?username=spongebab&row=1" alt="spongebab" /></a> </p>
 
+[![Spongebab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spongebab)](https://github.com/spongebab)
