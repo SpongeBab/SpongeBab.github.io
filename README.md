@@ -1,7 +1,5 @@
 <h1 align="center">欢迎来到我的GitHub Pages~</h1>
 
-# Hello~,我是彭晋文，一名研二学生。
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spongebab&label=Profile%20views&color=0e75b6&style=flat" alt="spongebab" /> </p>
 
 
