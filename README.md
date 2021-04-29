@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="spongebab" />
 
-<img src="https://komarev.com/ghpvc/?username=spongebab&label=Profile%20views&color=0e75b6&style=flat" alt="spongebab" /> </p>
+<img align = "center" src="https://komarev.com/ghpvc/?username=spongebab&label=Profile%20views&color=0e75b6&style=flat" alt="spongebab" /> </p>
 
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true&theme=solarized-light&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true&layout=compact" />
