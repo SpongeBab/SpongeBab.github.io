@@ -28,6 +28,7 @@
 - ⚡ Fun fact **all funny thing！**
 
 <p align="left"> <a href="https://github.com/spongebab"><img src="https://github-profile-trophy.vercel.app/?username=spongebab&row=1" alt="spongebab" /></a> </p>
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=spongebab&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Spongebab's github trophy](https://github-profile-trophy.vercel.app/?username=spongebab&row=1)](https://github.com/spongebab/github-profile-trophy)
 
 
