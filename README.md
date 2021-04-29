@@ -19,7 +19,7 @@
 
 - 🔭 I am currently in the **second year of my graduate**. 
 - 🌱 I’m currently learning **Deep Learning.**
-- 👨‍💻 All of my projects are available at [here](https://github/spongeBab)
+- 👨‍💻 All of my projects are available at [here](https://github.com/SpongeBab?tab=repositories)
 - 📝 I regularly write articles on [MyBlog](https://blog.csdn.net/weixin_40557160)
 - 👯 I’m looking to collaborate on **to be confirmed**
 - 🤔 I’m looking for help with **improve mAP**
@@ -40,5 +40,4 @@
 
 [MyBlog](https://blog.csdn.net/weixin_40557160)
 <p><a herf="https://blog.csdn.net/weixin_40557160"> My Blog </a> </p>
-
-
+<a herf="https://blog.csdn.net/weixin_40557160"><h1 align="center">Hi 👋, I'm SpongeBab</h1></a>
