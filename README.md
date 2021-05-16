@@ -19,10 +19,10 @@
 
 - 🔭 I am currently in the **second year of my graduate**. 
 - 🌱 I’m currently learning **Deep Learning.**
-- 👨‍💻 All of my projects are available at [here](https://github.com/SpongeBab?tab=repositories)
-- 📝 I regularly write articles on [MyBlog](https://blog.csdn.net/weixin_40557160)
-- 👯 I’m looking to collaborate on **to be confirmed**
-- 🤔 I’m looking for help with **improve mAP**
+- 👨‍💻 All of my projects are available at [here](https://github.com/SpongeBab?tab=repositories).
+- 📝 I regularly write articles on [MyBlog](https://blog.csdn.net/weixin_40557160).
+- 👯 I’m looking to collaborate on **to be confirmed**.
+- 🤔 I’m looking for help with **improve mAP**.
 - 💬 Ask me about **C/C++,Python.**
 - 📫 How to reach me **2078825250@qq.com**
 - 😄 Pronouns: WHAT DO YOU SEE FROM HERE.
@@ -36,6 +36,9 @@
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)"></p>
 </details>
 
-#                                                      [MyBlog](https://blog.csdn.net/weixin_40557160)
+
+
+#[MyBlog](https://blog.csdn.net/weixin_40557160)
+#Work List:https://github.com/SpongeBab/SpongeBab/blob/main/task.md
 
 
