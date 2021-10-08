@@ -26,16 +26,16 @@
      
 <br>
      
-- 🔭 I am currently in the **second year of my graduate**.
-- 🌱 I’m currently learning **Deep Learning**.
-- 👨‍💻 All of my projects are available at [here](https://github.com/SpongeBab?tab=repositories).
-- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/weixin_40557160).
-- 👯 I’m looking to collaborate on **to be confirmed**.
-- 🤔 I’m looking for help with **improve mAP**.
-- 💬 Ask me about **C/C++,Python**.
-- 📫 How to reach me **[MyBlog](https://blog.csdn.net/weixin_40557160)**.
-- 😄 Pronouns: WHAT DO YOU SEE FROM HERE.
-- ⚡ Fun fact **all funny thing！**  
+- 🔭 I am currently in the **second year of my graduate**.  
+- 🌱 I’m currently learning **Deep Learning**.  
+- 👨‍💻 All of my projects are available at [here](https://github.com/SpongeBab?tab=repositories).  
+- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/weixin_40557160).  
+- 👯 I’m looking to collaborate on **to be confirmed**.  
+- 🤔 I’m looking for help with **improve mAP**.  
+- 💬 Ask me about **C/C++,Python**.  
+- 📫 How to reach me **[MyBlog](https://blog.csdn.net/weixin_40557160)**.  
+- 😄 Pronouns: WHAT DO YOU SEE FROM HERE.  
+- ⚡ Fun fact **all funny thing！**   
     
      Nothing to say.I am a looser.I have no job.
 
