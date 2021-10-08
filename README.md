@@ -24,7 +24,8 @@
 </p>
 <p align="center"> 
      
-<br> </br>
+<br>
+     
 - 🔭 I am currently in the **second year of my graduate**.
 - 🌱 I’m currently learning **Deep Learning**.
 - 👨‍💻 All of my projects are available at [here](https://github.com/SpongeBab?tab=repositories).
@@ -36,7 +37,8 @@
 - 😄 Pronouns: WHAT DO YOU SEE FROM HERE.
 - ⚡ Fun fact **all funny thing！**  
     Nothing to say.I am a looser.I have no job.
-<br> </br>
+
+</br>
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true&theme=solarized-light&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true&layout=compact" />
 
