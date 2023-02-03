@@ -50,6 +50,6 @@
 
 # [MyBlog](https://blog.csdn.net/weixin_40557160)  
 
-## [Work List](https://github.com/SpongeBab/SpongeBab/blob/main/task.md)
+# [UEFI-Spec中文](https://github.com/SpongeBab/SpongeBab.github.io/blob/main/UEFI-Spec-ZH.pdf)
 
 
